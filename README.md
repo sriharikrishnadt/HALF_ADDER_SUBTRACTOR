@@ -1,8 +1,10 @@
+## HALF_ADDER_SUBTRACTOR
+
 ## NAME : Sri Hari Krishna D T
 
 ## REG NO : 24900669
 
-## HALF_ADDER_SUBTRACTOR
+## EX 3: HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -37,10 +39,10 @@ Borrow = A’B
 
 Figure -02 HALF Subtractor
 
-## Truthtable
+## Truthtable:
+![image](https://github.com/user-attachments/assets/00b511c4-5e31-4b1b-b86d-f3af11b6c561)
+![image](https://github.com/user-attachments/assets/9cd92564-ce25-42f7-8fc1-7ff422382a2a)
 
-![image](https://github.com/user-attachments/assets/81f87c0b-b1b6-40fa-a2e2-d8719c8ce0de)
-![image](https://github.com/user-attachments/assets/d5b9b330-fc5b-415b-9434-7ef779e16617)
 
 
 ## Procedure:
@@ -59,14 +61,16 @@ Figure -02 HALF Subtractor
 ## Program:
 
  Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-![image](https://github.com/user-attachments/assets/124c594c-3169-4128-b4c2-1d6f7c6b4f61)
+![image](https://github.com/user-attachments/assets/2a214056-632a-4f3b-9cf3-094114644caf)
+
 
 
 ## RTL Schematic
-![image](https://github.com/user-attachments/assets/1c25d8af-a32c-40de-a975-ddaae66aec45)
+![image](https://github.com/user-attachments/assets/68dc29cf-5f2f-4338-89b9-f3ea5b8928f7)
 
 ## Output/TIMING Waveform
-![image](https://github.com/user-attachments/assets/edfb8233-1bd9-4187-927d-ef7c444b6710)
+
+![image](https://github.com/user-attachments/assets/8adea1c5-e2b0-4d07-8149-39ab5328f82f)
 
 ## Result:
  Thus, we designed a half adder and half subtractor circuit and verified its truth table in Quartus using Verilog programming.
