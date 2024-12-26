@@ -1,10 +1,10 @@
-## HALF_ADDER_SUBTRACTOR
+## HALF ADDER AND SUBTRACTOR
 
 ## NAME : Sri Hari Krishna D T
 
 ## REG NO : 24900669
 
-## EX 3: HALF_ADDER_SUBTRACTOR
+## EX 3: HALF ADDER AND SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
